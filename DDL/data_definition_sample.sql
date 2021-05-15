@@ -21,14 +21,11 @@ DROP TABLE class_21_students
 
 
 /*
-    Based on last class lesson.
-    Each student are to clone this project.
+    Based on Data Definition Language Lesson.
     Create a file and name it yourname_ddl.sql
     In your file: 
         write a script to create database with your street name
         write a script to create table named landlord adding properties (column) to it, such as name, email, phone, address etc
         write a script to drop the table.
-
-
 */
 
